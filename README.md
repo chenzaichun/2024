@@ -6,7 +6,7 @@
 <!--START_SECTION:my_number-->
 | Name | Status | Streak | Today? | 
  | ---- | ---- | ---- | ---- |
-| [早起](https://github.com/chenzaichun/2023/issues/10) | 8 (天) | 8 | YES |
+| [早起](https://github.com/chenzaichun/2023/issues/10) | 9 (天) | 9 | YES |
 
 <!--END_SECTION:my_number-->
 
