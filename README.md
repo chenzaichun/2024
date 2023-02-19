@@ -6,10 +6,10 @@
 <!--START_SECTION:my_number-->
 | Name | Status | Streak | Today? | 
  | ---- | ---- | ---- | ---- |
-| [哑铃卧推](https://github.com/chenzaichun/2023/issues/5) | 384 (个) | 1 | NO |
+| [哑铃卧推](https://github.com/chenzaichun/2023/issues/5) | 384 (个) | 0 | NO |
 | [哑铃划船](https://github.com/chenzaichun/2023/issues/15) | 792 (个) | 0 | NO |
 | [哑铃侧平举](https://github.com/chenzaichun/2023/issues/4) | 1260 (个) | 0 | NO |
-| [早起](https://github.com/chenzaichun/2023/issues/10) | 36 (天) | 2 | YES |
+| [早起](https://github.com/chenzaichun/2023/issues/10) | 37 (天) | 3 | YES |
 
 <!--END_SECTION:my_number-->
 
