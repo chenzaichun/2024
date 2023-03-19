@@ -25,6 +25,7 @@
  | ---- | ---- | ---- | 
 | [《人体简史》](https://github.com/chenzaichun/2023/issues/8#issuecomment-1455308560) | 2023-03-06 | 2023-03-06 | 
 | [《我们为什么还没有死掉》-- 免疫系统漫游指南](https://github.com/chenzaichun/2023/issues/8#issuecomment-1467273248) | 2023-03-14 | 2023-03-14 | 
+| [《全球通史》](https://github.com/chenzaichun/2023/issues/8#issuecomment-1475150908) | 2023-03-19 | 2023-03-19 | 
 
 <!--END_SECTION:my_read-->
 
