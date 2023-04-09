@@ -27,6 +27,7 @@
 | [《我们为什么还没有死掉》-- 免疫系统漫游指南](https://github.com/chenzaichun/2023/issues/8#issuecomment-1467273248) | 2023-03-14 | 2023-03-14 | 
 | [《全球通史》](https://github.com/chenzaichun/2023/issues/8#issuecomment-1475150908) | 2023-03-19 | 2023-03-19 | 
 | [《管理的常识》](https://github.com/chenzaichun/2023/issues/8#issuecomment-1501118899) | 2023-04-09 | 2023-04-09 | 
+| [《管理的实践》](https://github.com/chenzaichun/2023/issues/8#issuecomment-1501119295) | 2023-04-09 | 2023-04-09 | 
 
 <!--END_SECTION:my_read-->
 
