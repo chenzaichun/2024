@@ -7,7 +7,7 @@
 | Name | Status | Streak | Today? | 
  | ---- | ---- | ---- | ---- |
 | [哑铃卧推](https://github.com/chenzaichun/2023/issues/5) | 1525 (个) | 0 | NO |
-| [哑铃划船](https://github.com/chenzaichun/2023/issues/15) | 4056 (个) | 0 | NO |
+| [哑铃划船](https://github.com/chenzaichun/2023/issues/15) | 4176 (个) | 1 | YES |
 | [哑铃侧平举](https://github.com/chenzaichun/2023/issues/4) | 5100 (个) | 0 | NO |
 | [早起](https://github.com/chenzaichun/2023/issues/10) | 99 (天) | 10 | YES |
 
