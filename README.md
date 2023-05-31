@@ -9,7 +9,7 @@
 | [哑铃卧推](https://github.com/chenzaichun/2023/issues/5) | 1761 (个) | 0 | NO |
 | [哑铃划船](https://github.com/chenzaichun/2023/issues/15) | 4560 (个) | 0 | NO |
 | [哑铃侧平举](https://github.com/chenzaichun/2023/issues/4) | 5820 (个) | 0 | NO |
-| [早起](https://github.com/chenzaichun/2023/issues/10) | 117 (天) | 0 | NO |
+| [早起](https://github.com/chenzaichun/2023/issues/10) | 118 (天) | 1 | YES |
 
 <!--END_SECTION:my_number-->
 
