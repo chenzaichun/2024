@@ -28,6 +28,7 @@
 | [《全球通史》](https://github.com/chenzaichun/2023/issues/8#issuecomment-1475150908) | 2023-03-19 | 2023-03-19 | 
 | [《管理的常识》](https://github.com/chenzaichun/2023/issues/8#issuecomment-1501118899) | 2023-04-09 | 2023-04-09 | 
 | [《管理的实践》](https://github.com/chenzaichun/2023/issues/8#issuecomment-1501119295) | 2023-04-09 | 2023-04-09 | 
+| [《瓦尔登湖》](https://github.com/chenzaichun/2023/issues/8#issuecomment-1656696788) | 2023-07-29 | 2023-07-29 | 
 
 <!--END_SECTION:my_read-->
 
