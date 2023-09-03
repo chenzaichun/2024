@@ -31,6 +31,7 @@
 | [《管理的常识》](https://github.com/chenzaichun/2023/issues/8#issuecomment-1501118899) | 2023-04-09 | 2023-04-09 | 
 | [《管理的实践》](https://github.com/chenzaichun/2023/issues/8#issuecomment-1501119295) | 2023-04-09 | 2023-04-09 | 
 | [《瓦尔登湖》](https://github.com/chenzaichun/2023/issues/8#issuecomment-1656696788) | 2023-07-29 | 2023-07-29 | 
+| [《沉默的大多数》](https://github.com/chenzaichun/2023/issues/8#issuecomment-1703990866) | 2023-09-03 | 2023-09-03 | 
 
 <!--END_SECTION:my_read-->
 
