@@ -1,18 +1,9 @@
-# 2023
-关于我的2023的一些记录。代码来自 [yihong0618](https://github.com/yihong0618/2021), 我做了自己的修改，感谢 `yihong0618`
+# 2024
+关于我的2024的一些记录。代码来自 [yihong0618](https://github.com/yihong0618/2021), 我做了自己的修改，感谢 `yihong0618`
 
 ## 我的数字
 
 <!--START_SECTION:my_number-->
-| Name | Status | Streak | Today? | 
- | ---- | ---- | ---- | ---- |
-| [卷腹](https://github.com/chenzaichun/2023/issues/3) | 84 (个) | 0 | NO |
-| [哑铃卧推](https://github.com/chenzaichun/2023/issues/5) | 4505 (个) | 0 | NO |
-| [哑铃划船](https://github.com/chenzaichun/2023/issues/15) | 13196 (个) | 0 | NO |
-| [哑铃侧平举](https://github.com/chenzaichun/2023/issues/4) | 15309 (个) | 0 | NO |
-| [全蹲/深蹲](https://github.com/chenzaichun/2023/issues/1) | 240 (个) | 0 | NO |
-| [早起](https://github.com/chenzaichun/2023/issues/10) | 118 (天) | 0 | NO |
-
 <!--END_SECTION:my_number-->
 
 ## 跑步
@@ -23,16 +14,6 @@
 ## 读书
 
 <!--START_SECTION:my_read-->
-| Name | Start | Update | 
- | ---- | ---- | ---- | 
-| [《人体简史》](https://github.com/chenzaichun/2023/issues/8#issuecomment-1455308560) | 2023-03-06 | 2023-03-06 | 
-| [《我们为什么还没有死掉》-- 免疫系统漫游指南](https://github.com/chenzaichun/2023/issues/8#issuecomment-1467273248) | 2023-03-14 | 2023-03-14 | 
-| [《全球通史》](https://github.com/chenzaichun/2023/issues/8#issuecomment-1475150908) | 2023-03-19 | 2023-03-19 | 
-| [《管理的常识》](https://github.com/chenzaichun/2023/issues/8#issuecomment-1501118899) | 2023-04-09 | 2023-04-09 | 
-| [《管理的实践》](https://github.com/chenzaichun/2023/issues/8#issuecomment-1501119295) | 2023-04-09 | 2023-04-09 | 
-| [《瓦尔登湖》](https://github.com/chenzaichun/2023/issues/8#issuecomment-1656696788) | 2023-07-29 | 2023-07-29 | 
-| [《沉默的大多数》](https://github.com/chenzaichun/2023/issues/8#issuecomment-1703990866) | 2023-09-03 | 2023-09-03 | 
-
 <!--END_SECTION:my_read-->
 
 ## 刷剧
