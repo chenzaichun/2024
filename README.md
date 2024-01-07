@@ -8,7 +8,7 @@
 
 ## 跑步
 
-![](https://raw.githubusercontent.com/chenzaichun/running_page/gh-pages/static/assets/github_2023.svg)
+![](https://raw.githubusercontent.com/chenzaichun/running_page/gh-pages/static/assets/github_2024.svg)
 
 
 ## 读书
