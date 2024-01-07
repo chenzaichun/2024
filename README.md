@@ -4,6 +4,10 @@
 ## 我的数字
 
 <!--START_SECTION:my_number-->
+| Name | Status | Streak | Today? | 
+ | ---- | ---- | ---- | ---- |
+| [哑铃侧平举](https://github.com/chenzaichun/2024/issues/4) | 420 (个) | 1 | NO |
+
 <!--END_SECTION:my_number-->
 
 ## 跑步
