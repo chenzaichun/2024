@@ -7,7 +7,7 @@
 | Name | Status | Streak | Today? | 
  | ---- | ---- | ---- | ---- |
 | [卷腹](https://github.com/chenzaichun/2024/issues/3) | 940 (个) | 2 | NO |
-| [哑铃卧推](https://github.com/chenzaichun/2024/issues/5) | 516 (个) | 0 | NO |
+| [哑铃卧推](https://github.com/chenzaichun/2024/issues/5) | 616 (个) | 1 | YES |
 | [哑铃划船](https://github.com/chenzaichun/2024/issues/15) | 744 (个) | 0 | NO |
 | [哑铃侧平举](https://github.com/chenzaichun/2024/issues/4) | 2100 (个) | 0 | NO |
 
