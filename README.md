@@ -25,6 +25,7 @@
 | Name | Start | Update | 
  | ---- | ---- | ---- | 
 | [《原子习惯》](https://github.com/chenzaichun/2024/issues/8#issuecomment-1958970060) | 2024-02-22 | 2024-02-22 | 
+| [《练习的心态》](https://github.com/chenzaichun/2024/issues/8#issuecomment-2041009352) | 2024-04-06 | 2024-04-06 | 
 
 <!--END_SECTION:my_read-->
 
