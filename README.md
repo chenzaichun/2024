@@ -6,11 +6,11 @@
 <!--START_SECTION:my_number-->
 | Name | Status | Streak | Today? | 
  | ---- | ---- | ---- | ---- |
-| [卷腹](https://github.com/chenzaichun/2024/issues/3) | 3160 (个) | 2 | YES |
-| [哑铃卧推](https://github.com/chenzaichun/2024/issues/5) | 944 (个) | 1 | YES |
+| [卷腹](https://github.com/chenzaichun/2024/issues/3) | 3260 (个) | 2 | NO |
+| [哑铃卧推](https://github.com/chenzaichun/2024/issues/5) | 944 (个) | 1 | NO |
 | [哑铃划船](https://github.com/chenzaichun/2024/issues/15) | 1128 (个) | 0 | NO |
 | [哑铃侧平举](https://github.com/chenzaichun/2024/issues/4) | 2670 (个) | 0 | NO |
-| [平板支撑](https://github.com/chenzaichun/2024/issues/2) | 22 (秒) | 2 | YES |
+| [平板支撑](https://github.com/chenzaichun/2024/issues/2) | 22 (秒) | 2 | NO |
 
 <!--END_SECTION:my_number-->
 
