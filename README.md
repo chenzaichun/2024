@@ -29,6 +29,7 @@
 | [《疯狂的尿酸》- 不止是痛风](https://github.com/chenzaichun/2024/issues/8#issuecomment-2069463391) | 2024-04-22 | 2024-04-22 | 
 | [《控糖革命》](https://github.com/chenzaichun/2024/issues/8#issuecomment-2099531963) | 2024-05-08 | 2024-05-08 | 
 | [《闪电增肌》](https://github.com/chenzaichun/2024/issues/8#issuecomment-2220429038) | 2024-07-10 | 2024-07-10 | 
+| [《奖励的恶果》](https://github.com/chenzaichun/2024/issues/8#issuecomment-2220434127) | 2024-07-10 | 2024-07-10 | 
 
 <!--END_SECTION:my_read-->
 
