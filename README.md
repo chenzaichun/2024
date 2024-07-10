@@ -8,7 +8,7 @@
  | ---- | ---- | ---- | ---- |
 | [卷腹](https://github.com/chenzaichun/2024/issues/3) | 4600 (个) | 0 | NO |
 | [哑铃卧推](https://github.com/chenzaichun/2024/issues/5) | 1349 (个) | 0 | NO |
-| [哑铃划船](https://github.com/chenzaichun/2024/issues/15) | 1560 (个) | 0 | NO |
+| [哑铃划船](https://github.com/chenzaichun/2024/issues/15) | 1776 (个) | 1 | YES |
 | [哑铃侧平举](https://github.com/chenzaichun/2024/issues/4) | 4080 (个) | 0 | NO |
 | [平板支撑](https://github.com/chenzaichun/2024/issues/2) | 30 (秒) | 0 | NO |
 
