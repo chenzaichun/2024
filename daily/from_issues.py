@@ -45,9 +45,7 @@ def get_info_from_issue_comments(issues, map_func, reduce_func=sum):
         return data, streak, is_today_check, url
     # fuck pendulum's period
     periods = list(
-        pendulum.diff(
-            pendulum.instance(calendar_list[0]).in_timezone("Asia/Shanghai"), end_date
-        )
+        pendulum.instance(calendar_list[0]).in_timezone("Asia/Shanghai")).diff(end_date
     )
     periods = [p.to_date_string() for p in periods]
     # fix pendulum's period bug I don't know why ???? the period are different
