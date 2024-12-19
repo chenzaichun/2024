@@ -31,7 +31,7 @@ def get_info_from_issue_comments(issues, map_func, reduce_func=sum):
                 month_summary_dict[month] += data
     end_date = pendulum.now("Asia/Shanghai")
     calendar_str_list = [
-        pendulum.instance(i).in_timezone("Asia/Shanghai").to_date_string()
+        pendulum.instance(i)
         for i in calendar_list
     ]
     is_today_check = False
@@ -45,8 +45,8 @@ def get_info_from_issue_comments(issues, map_func, reduce_func=sum):
         return data, streak, is_today_check, url
     # fuck pendulum's period
     periods = list(
-        pendulum.instance(calendar_list[0]).in_timezone("Asia/Shanghai")).diff(end_date
-    )
+        pendulum.instance(calendar_list[0]).diff(end_date)
+        )
     periods = [p.to_date_string() for p in periods]
     # fix pendulum's period bug I don't know why ???? the period are different
     if end_date.to_date_string() in periods:
