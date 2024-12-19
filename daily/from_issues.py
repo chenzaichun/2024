@@ -45,7 +45,7 @@ def get_info_from_issue_comments(issues, map_func, reduce_func=sum):
         return data, streak, is_today_check, url
     # fuck pendulum's period
     periods = list(
-        pendulum.period(
+        pendulum.diff(
             pendulum.instance(calendar_list[0]).in_timezone("Asia/Shanghai"), end_date
         )
     )
